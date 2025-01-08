@@ -55,7 +55,7 @@ The Atbash cipher is a substitution cipher where each letter in the alphabet is 
 
 ## Step 1: Clone the Repository
 
-**git clone https://github.com/2000dann/Gematria-Calculator-API.git**
+**git clone https://github.com/danbassov/Gematria-Calculator-API.git**
 
 **cd gematria-calculator**
 
